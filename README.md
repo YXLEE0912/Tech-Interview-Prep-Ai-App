@@ -15,7 +15,7 @@ A GenAI practice project that takes any technical concept and generates:
 
 ## ⚙️ Quick Setup
 
-### 1. Install Dependencies
+1. Install Dependencies
 pip install langchain langchain-core langchain-openai gradio python-dotenv
 
 2. Set API Key
